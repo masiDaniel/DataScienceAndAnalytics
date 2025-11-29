@@ -19,8 +19,7 @@ This repository aims to:
 - Maintain well-structured, easy-to-follow project folders
 
 ### Repository Structure
-📦 data-science-and-analytics/
- ├── data/   
+
 
 ## Tech Stack
 
